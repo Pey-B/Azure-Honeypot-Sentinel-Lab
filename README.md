@@ -3,7 +3,7 @@
 
 This project simulates a real-world SOC workflow by deploying a honeypot in Microsoft Azure, capturing attacker traffic, enriching logs with geolocation data, and visualizing live attacks on a world map using an Azure Sentinel workbook.
 
-It demonstrates skills in threat detection, cloud security, log analysis, watchlists, and KQL.
+It demonstrates skills in threat detection, cloud security, log analysis, and KQL.
 
 ---
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
